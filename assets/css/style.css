@@ -1,0 +1,28 @@
+body {
+    font-family: 'Noto Serif', serif;
+    text-decoration: none;
+    color: #000000;
+}
+
+.titulo {
+    font-family: 'Playfair display', serif;
+    font-weight: 800;
+    color: #222222;
+}
+
+#menu, a {
+    color: #444444;
+}
+
+.cuadrado {
+    border-radius: 5%;
+    border: 2px solid #BBBBBB;
+    height: 60px;
+    width: 60px;
+}
+
+.tecla {
+    border-radius: 10%;
+    background-color: #DDDDDD;
+    height: 50px;
+}
